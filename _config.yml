@@ -1,2 +1,2 @@
-theme: jekyll-theme-minimal
 name: Personal (under-construction) Website of Mostafa Safaie
+permalink: /blog/:year/:month/:day/:title
