@@ -2,7 +2,7 @@ baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'This is Mostafa'
-
+permalink: /blog/:year/:month/:day/:title
 google_analytics_id: null
 homepage:
   show_call_box: true
