@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'This is Mostafa'
 
 google_analytics_id: null
 homepage:
@@ -11,7 +11,7 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'theme by <a class="zerostatic" href="https://github.com/zerostaticthemes/hugo-serif-theme">Robert Austin</a>'
 
 seo:
   meta_og_title: "Jekyll Serif Theme"
