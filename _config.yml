@@ -35,8 +35,8 @@ defaults:
   - scope:
       type: cv
     values:
-      layout: service
-      bodyClass: page-services-single
+      layout: skill
+      bodyClass: page-skill-single
   - scope:
       path: 'images'
     values:
