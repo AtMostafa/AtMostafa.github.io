@@ -41,7 +41,7 @@
      id="namedview11"
      showgrid="false"
      inkscape:zoom="6.6203704"
-     inkscape:cx="7.320534"
+     inkscape:cx="6.4897648"
      inkscape:cy="34.179936"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -79,17 +79,15 @@
          id="g918"
          transform="translate(-66.193325,-42.796982)"
          style="fill:#a00003;fill-opacity:1">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#a00003;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="79.426674"
-           y="79.696976"
-           id="text18"><tspan
-             sodipodi:role="line"
-             id="tspan22"
+        <g
+           aria-label="M"
+           id="text18"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#a00003;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             d="m 103.12665,75.39698 -0.56666,-10.99999 c -0.1,-1.899998 0.26666,-2.566664 1.29999,-2.999997 1.33334,-0.566666 1.6,-0.666666 1.6,-0.999999 0,-0.333333 -0.13333,-0.566666 -0.53333,-0.566666 -1.06667,0 -3.36666,0.333333 -4.23333,0.333333 -0.866666,0 -1.333332,0 -1.699998,0.766666 l -5.233328,10.866656 c -0.633333,1.266666 -0.766666,0.733333 -1.033333,0.03333 l -3.899996,-9.566658 c -0.633333,-1.499999 -1.199999,-2.099998 -2.099998,-2.099998 -1.533332,0 -2.499998,-0.166667 -3.699997,-0.166667 -0.399999,0 -1.133332,-0.03333 -1.133332,0.466667 0,0.533333 1.199999,1.033332 1.799998,1.599998 0.833333,0.766666 1.366666,1.399999 1.066666,3.766663 L 83.62667,74.69698 c -0.233333,1.666666 -0.799999,2.999998 -1.933332,3.499997 -0.766666,0.333333 -1.833331,0.5 -1.833331,0.999999 0,0.333333 0.733332,0.533333 1.099999,0.566666 0.233333,0 1.499998,-0.199999 3.066664,-0.199999 1.599998,0 3.066663,0.199999 3.299996,0.199999 0.366667,-0.03333 1.066666,-0.233333 1.066666,-0.566666 0,-0.499999 -1.099999,-0.666666 -1.833332,-0.999999 -0.866665,-0.399999 -1.099999,-2.033331 -1.033332,-2.93333 l 0.566666,-9.299992 c 0.03333,-0.833332 0.333333,-1.299998 0.833333,-0.03333 l 4.099996,10.49999 c 0.699999,1.799998 0.966666,2.066665 1.299999,2.066665 0.299999,0 1.699998,-2.866664 1.833331,-3.166664 L 98.659989,64.99699 c 0.233333,-0.6 0.833332,-0.733333 0.866666,-0.1 l 0.433333,10.49999 c 0.06666,1.233332 -0.433333,2.299998 -1.566666,2.799997 -0.733332,0.333333 -1.833331,0.5 -1.833331,0.999999 0,0.333333 0.733333,0.533333 1.099999,0.566666 0.233333,0 2.199998,-0.199999 3.76666,-0.199999 1.6,0 3.8,0.199999 4.03333,0.199999 0.36667,-0.03333 1.06667,-0.233333 1.06667,-0.566666 0,-0.499999 -1.1,-0.666666 -1.83333,-0.999999 -1.13334,-0.499999 -1.5,-1.566665 -1.56667,-2.799997 z"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a00003;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             x="79.426674"
-             y="79.696976">M</tspan></text>
+             id="path837" />
+        </g>
       </g>
     </g>
   </g>
