@@ -3,7 +3,7 @@ main:
     url: "/blog/"
     weight: 1
   - name: "Skills"
-    url: "/cv/"
+    url: "/cv"
     weight: 2
   - name: "Links"
     url: "/team/"
