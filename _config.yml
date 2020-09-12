@@ -1,8 +1,6 @@
 baseurl: ''
 exclude: ['README.md']
-permalink: pretty
 title: 'This is Mostafa'
-permalink: /blog/:year/:month/:day/:title
 google_analytics_id: null
 homepage:
   show_call_box: true
@@ -23,6 +21,9 @@ seo:
   meta_twitter_creator: "@TweetAtMostafa"
 
 collections:
+  posts:
+    output          : true
+    permalink: /blog/:year/:month/:day/:title
   cv:
     output: true
     permalink: /cv/:path/
@@ -32,6 +33,7 @@ collections:
 
 defaults:
   - scope:
+      path: ""
       type: cv
     values:
       layout: skill
