@@ -11,7 +11,7 @@ logo:
   desktop: "images/logo/logo_.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'theme by <a class="zerostatic" href="https://github.com/zerostaticthemes/hugo-serif-theme">Robert Austin</a>'
+  copyright_text: 'theme by <a href="https://github.com/zerostaticthemes/hugo-serif-theme">Robert Austin</a>'
 
 seo:
   meta_og_title: "This is Mostafa"
