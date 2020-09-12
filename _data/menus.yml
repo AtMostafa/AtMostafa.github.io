@@ -2,7 +2,7 @@ main:
   - name: "Blog"
     url: "/blog/"
     weight: 1
-  - name: "CV"
+  - name: "Skills"
     url: "/cv/"
     weight: 2
   - name: "Links"
