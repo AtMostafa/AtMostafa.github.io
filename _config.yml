@@ -14,14 +14,13 @@ footer:
   copyright_text: 'theme by <a class="zerostatic" href="https://github.com/zerostaticthemes/hugo-serif-theme">Robert Austin</a>'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "This is Mostafa"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_url: "thisismostafa.site"
+  meta_og_description: "Personal homepage of Mostafa"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@TweetAtMostafa"
+  meta_twitter_creator: "@TweetAtMostafa"
 
 collections:
   cv:
