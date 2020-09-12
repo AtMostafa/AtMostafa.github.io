@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: contact
+permalink: /contact
 bodyClass: page-contact
 ---
 

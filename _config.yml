@@ -1,6 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 title: 'This is Mostafa'
+permalink: pretty
 google_analytics_id: null
 homepage:
   show_call_box: true
@@ -26,10 +27,10 @@ collections:
     permalink: /blog/:year/:month/:day/:title
   cv:
     output: true
-    permalink: /cv/:path/
+    permalink: /cv/:path
   team:
     output: true
-    permalink: /team/:path/
+    permalink: /team/:path
 
 defaults:
   - scope:
