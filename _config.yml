@@ -24,16 +24,16 @@ seo:
   meta_twitter_creator: "@zerostaticio"
 
 collections:
-  services:
+  cv:
     output: true
-    permalink: /services/:path/
+    permalink: /cv/:path/
   team:
     output: true
     permalink: /team/:path/
 
 defaults:
   - scope:
-      type: services
+      type: cv
     values:
       layout: service
       bodyClass: page-services-single
