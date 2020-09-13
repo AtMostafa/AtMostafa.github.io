@@ -7,7 +7,7 @@ permalink: /about
 
 My name is, __surprise surprise__, Mostafa —and no, I didn't misspell it, this is how I read and write it.
 I had a few free days and I suddenly decided to start this website, but I'm not quiet sure, why, for who, and to publish what.
-So, at least for the moment, I'll post post the essentials to instead of the placeholders if the theme, and then I may share things I like and/or opinions in the [blog](http://thisismostafa.site/blog) section.
+So, at least for the moment, I'll post the essentials instead of the placeholders of the theme, and then I may share things I like and/or opinions in the [blog](http://thisismostafa.site/blog) section.
 
 I am an Electrical-Electronics engineer by training.
 I changed lanes and did a MSc in Biomedical Engineering, where I was exposed to neuroscience and got seduced by it.
