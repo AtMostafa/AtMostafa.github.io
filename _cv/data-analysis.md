@@ -5,14 +5,21 @@ featured: true
 weight: 6
 ---
 
+Looking into a large and complex set of data to draw statistical inferences.
+
 I've spent a lot of time playing with data. It might not qualify as data science in that I haven't used machine/deep learning, rather I've coded pipelines to regroup, label and visualise raw data.
-Proper visualisation of a noisy and complex database goes a long way in revealing the patterns or anomalies.
+Proper visualisation of a noisy and complex database goes a long way in revealing hidden patterns or anomalies.
 
-My favourite tool used to be _Matlab_, but in the last few years, I switched to _Python_ and I could not be happier!
-Below, I elaborate how I do thing and my toys of choice.
+My favourite language used to be _Matlab_, but to do my PhD, I learnt _Python_ and now I do not want to go back!
+Below, I elaborate how I do things and my toys of choice.
 
+
+# Python _3.x_
+Personal experience of moving to Python from Matlab belongs to another place _[coming soon]_.
 
 # Anaconda environments
+In every computer, [Anaconda](https://www.anaconda.com/products/individual) is one of the first things I install.
+I use a separate [environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for each project to meet the dependencies and avoid conflicts, which happen in the python ecosystem and are devastating.
 
 # Jupyter notebooks
 
