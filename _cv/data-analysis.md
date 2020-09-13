@@ -1,9 +1,23 @@
 ---
-title: "Tax Preperation"
+title: "Data Analysis"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 6
 ---
+
+I've spent a lot of time playing with data. It might not qualify as data science in that I haven't used machine/deep learning, rather I've coded pipelines to regroup, label and visualise raw.
+Proper visualisation of a noisy and complex database goes a long way in revealing the patterns or anomalies.
+
+My favourite tool used to be _Matlab_, but in the last few years, I switched to _Python_ and I could not be happier!
+Below, I elaborate how I do thing and my toys of choice.
+
+
+# Anaconda environments
+
+# Jupyter notebooks
+
+# Publication-ready plotting
+
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
