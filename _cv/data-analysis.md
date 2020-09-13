@@ -5,7 +5,7 @@ featured: true
 weight: 6
 ---
 
-I've spent a lot of time playing with data. It might not qualify as data science in that I haven't used machine/deep learning, rather I've coded pipelines to regroup, label and visualise raw.
+I've spent a lot of time playing with data. It might not qualify as data science in that I haven't used machine/deep learning, rather I've coded pipelines to regroup, label and visualise raw data.
 Proper visualisation of a noisy and complex database goes a long way in revealing the patterns or anomalies.
 
 My favourite tool used to be _Matlab_, but in the last few years, I switched to _Python_ and I could not be happier!
