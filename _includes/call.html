@@ -17,10 +17,13 @@
       </a>
     </div>
     {% endif %}
+    {% if site.data.contact.other %}
+    <div class="call-other"><strong>{{ site.data.contact.other }} </strong> </div>
+    {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
-        <a href="{{ site.data.contact.contact_button_link }}" class="button">Contact</a>
+        <a href="{{ site.data.contact.contact_button_link }}" class="button">Blog</a>
       </div>
     {% endif %}
 </div>
