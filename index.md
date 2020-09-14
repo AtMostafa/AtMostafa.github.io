@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Homepage of Mostafa.
+# My Homepage.
 
 Under construction.
-Eventually the theme's material will be replaced.
+Eventually the placeholders will be replaced.
