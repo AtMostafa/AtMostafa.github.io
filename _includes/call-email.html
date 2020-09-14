@@ -4,11 +4,18 @@
       <a href="mailto:{{ site.data.contact.email }}">
         {{ site.data.contact.email }}
       </a>
+      {% if site.data.contact.twitter %}
+      <div class="call-twiiter"><strong>Twitter: </strong>
+        <a href="https://twitter.com/{{ site.data.contact.twitter }}">
+          @{{ site.data.contact.twitter }}
+        </a>
+      </div>
+      {% endif %}
     </div>
   </div>
-    {% if include.show_button %}
-      <div class="call-box-bottom">
-        <a href="{{ site.data.contact.contact_button_link }}" class="button">Blog</a>
-      </div>
-    {% endif %}
+  {% if include.show_button %}
+  <div class="call-box-bottom">
+    <a href="{{ site.data.contact.contact_button_link }}" class="button">Blog</a>
+  </div>
+  {% endif %}
 </div>
