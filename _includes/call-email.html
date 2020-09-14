@@ -1,0 +1,14 @@
+<div class="call">
+  <div class="call-box-top">
+    <div class="call-email"><strong>Drop me an email: </strong>
+      <a href="mailto:{{ site.data.contact.email }}">
+        {{ site.data.contact.email }}
+      </a>
+    </div>
+  </div>
+    {% if include.show_button %}
+      <div class="call-box-bottom">
+        <a href="{{ site.data.contact.contact_button_link }}" class="button">Blog</a>
+      </div>
+    {% endif %}
+</div>
