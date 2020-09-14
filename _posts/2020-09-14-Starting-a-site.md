@@ -10,7 +10,9 @@ Let's talk about how I started this [_website_]({{site.url}}) without any knowle
 {{site.url}} is hosted on [GitHub Pages](https://pages.github.com/).
 It is very easy and **free**:
 1. I created a **public** repository following the [instructions](https://pages.github.com/): it will turn into a simple website available at [http://YourUsername.github.io]().
-2. GitHub uses Jekyll to build the website. I found a Jekyll theme I liked from the many freely available ones—for example, check this out: [https://jekyllthemes.io/](https://jekyllthemes.io/).
+2. GitHub uses Jekyll to build the website.
+Every time I push something to the repository, GitHub runs Jekyll on it and in a few minutes, the changes will be published online.
+I found a Jekyll theme I liked from the many freely available ones—for example, check this out: [https://jekyllthemes.io/](https://jekyllthemes.io/).
 Don't worry about the exact material in the theme.
 You will be able to change everything.
 Just choose one that has the general design elements you need, because that would need more effort to change later on.
