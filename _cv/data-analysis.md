@@ -22,10 +22,11 @@ In every computer, [Anaconda](https://www.anaconda.com/products/individual) is o
 I use a separate [environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) for each project to meet the dependencies and avoid conflicts, which happen in the python ecosystem and are devastating.
 
 # Jupyter notebooks
-[These](https://jupyter.org/) are just awesome for tinkering, which is most what one does when performing new analyses or developing new tools.
+[Notebooks](https://jupyter.org/) are awesome for tinkering, which is most what one does when performing new analyses or developing new tools.
 I mostly used [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) to work with notebooks.
 However, recently Visual Studio Code is improving its support of notebooks, it might be worth trying it out!
 
 # Publication-ready plotting
 
 
+[...]
