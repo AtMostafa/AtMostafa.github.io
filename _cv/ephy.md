@@ -10,6 +10,7 @@ Single-cell recording from head-fixed and freely-moving rodents.
 ![traces of recoded cells](/images/skills/ephy/traces.jpg)
 
 # In my PhD
+## Preparation
 
 In the first half of my PhD, I spent a lot of time developing and testing custom tools to use [Thomas Recording tetrodes](https://www.thomasrecording.com/tetrodes-for-other-manipulators) for chronic recordings in rats.
 These tetrodes are 95um in diameter with 4 conductive platinum/tungsten wires insulated from one another and laid inside the glass body.
@@ -40,6 +41,17 @@ This took a lot of time to master, but finally resulted in drives such as the on
 
 ![the tips of the tetrodes installed in a drive](/images/skills/ephy/electrodeArrayTips.png)
 
+## Test
+The final step, before chronic implantation, was to test the drive in a anaesthetized preparation (under urethane) to check if all the tetrodes and connections are working.
+I would just hold the drive and the amplifier in a custom stereotaxic arm and check the quality of the signal in cortex and the striatum (our targeted area).
 
+Finally, I implanted the micro-drive in the dorsal striatum of several animals.
+I also affixed the amplifier in the headstage to minimise noise levels and make connecting the cable easier later on.
+After recovery, these animals were trained in a treadmill task.
+Unfortunately, these data are not yet analysed.
+However, as an  example, I have prepared the video below, showing a single tetrode implanted in the dorsal striatum synchronised with the behaviour.
+There is a neuron that preferentially fires when the animal turns backward on the treadmill.
+The video concatenates windows around each spiking event, regardless of behaviour.
+(Video source is a high-speed IR camera, that's why it doesn't look that good!)
 
-[add the fav-cell video]
+<iframe title="Tetrode on a treadmill!" width="560" height="315" src="https://www.youtube.com/embed/lpujjEL8krs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
