@@ -2,7 +2,7 @@
 title: "In-vivo Electrophysiology"
 date: 2020-09-15
 featured: true
-weight: 1
+weight: 70
 ---
 
 Single-cell recording from head-fixed and freely-moving rodents.
@@ -13,12 +13,12 @@ Single-cell recording from head-fixed and freely-moving rodents.
 ## Preparation
 
 In the first half of my PhD, I spent a lot of time developing and testing custom tools to use [Thomas Recording tetrodes](https://www.thomasrecording.com/tetrodes-for-other-manipulators) for chronic recordings in rats.
-These tetrodes are 95um in diameter with 4 conductive platinum/tungsten wires insulated from one another and laid inside the glass body.
+These tetrodes are 95um in diameter with 4 conductive platinum/tungsten wires insulated from one another and laid inside a glass body.
 We were buying the raw fibers of 50cm length which were then cut to size, pulled and ground to increase their final impedance.
 
 ![tip of a single electrode](/images/skills/ephy/tetrodeTip.png)
 
-Although we had the pulling machine and the grinder from _Thomas Recording_ in the lab, but still, handling <100mu fibers is no easy task.
+Although we had the pulling machine and the grinder from _Thomas Recording_ in the lab, but still, handling <100um fibers is no easy task.
 Even if the fiber was pulled well, inserted into the grinder's canula properly, ground to shape, still I had to chemically strip the glass off the other end, glue it to a custom PCB, separate the metal cores, and solder each one to an actual strand of wire which could then be connected to the amplifier.
 The image below displays a tetrode coming from the bottom, glued and prepared.
 Mind that the green PCB is almost 3x5mm.
@@ -42,12 +42,12 @@ This took a lot of time to master, but finally resulted in drives such as the on
 ![the tips of the tetrodes installed in a drive](/images/skills/ephy/electrodeArrayTips.png)
 
 ## Test
-The final step, before chronic implantation, was to test the drive in a anaesthetized preparation (under urethane) to check if all the tetrodes and connections are working.
+The final step, before chronic implantation, was to test the drive in a anaesthetized preparation (under urethane) to check if all the tetrodes and connections were working.
 I would just hold the drive and the amplifier in a custom stereotaxic arm and check the quality of the signal in cortex and the striatum (our targeted area).
 
 Finally, I implanted the micro-drive in the dorsal striatum of several animals.
 I also affixed the amplifier in the headstage to minimise noise levels and make connecting the cable easier later on.
-After recovery, these animals were trained in a treadmill task.
+After recovery, these animals were trained in a treadmill-based task.
 Unfortunately, these data are not yet analysed.
 However, as an  example, I have prepared the video below, showing a single tetrode implanted in the dorsal striatum synchronised with the behaviour.
 There is a neuron that preferentially fires when the animal turns backward on the treadmill.
