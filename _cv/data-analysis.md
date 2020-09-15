@@ -1,8 +1,8 @@
 ---
 title: "Data Analysis"
-date: 2018-11-18T12:33:46+10:00
+date: 2020-09-10
 featured: true
-weight: 6
+weight: 2
 ---
 
 Looking into a large and complex set of data to draw statistical inferences.
