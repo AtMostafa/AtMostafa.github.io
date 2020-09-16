@@ -49,4 +49,7 @@ All of the above, in addition to the practice of openly sharing the database as 
 
 # Statistical inference
 
-[...]
+I'm a fan of non-parametric statistical hypothesis tests.
+In my PhD, I put together a small statistics package, including __permutation__ and __bootstrap__ methods.
+In my papers, I tried to replace traditional tests, such as the _t-test_ that have many assumptions, with a suitable non-parametric one.
+By so doing, I avoided violating test assumptions, and perhaps more importantly, falling victim to [_confirmation bias_](https://en.wikipedia.org/wiki/Confirmation_bias) by choosing a test that 'works.'
