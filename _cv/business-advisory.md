@@ -2,7 +2,7 @@
 title: "Business Advisory"
 date: 2018-11-28
 featured: true
-weight: 20
+weight: 2
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
