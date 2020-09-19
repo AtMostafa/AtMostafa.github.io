@@ -25,6 +25,13 @@ It has been long known that animals tend to move when they need to keep track of
 But, whether they _can_ do it without moving was not clear.
 To address this, I designed several behavioural experiments on the treadmill.
 To one degree or another, those experiments disfavoured the usage of motor routines.
+For instance, in one experiment, I trained rats on a totally immobile treadmill, basically not a treadmill anymore, just a linear track.
+Everything else remained unchanged: the task, the rules, everything.
+The video below shows our _best_ rat in his _best_ session.
+Pay attention to how variable he is and that he still performs a motor strategy of running back and forth on the treadmill by himself.
+
+<iframe title="Rat on an immobile treadmill!" width="650" height="150" src="https://www.youtube.com/embed/rJ2f7VXPjD4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 If animals had an internal (within their brains, regardless of their bodies) sense of time, not finding a motor strategy to fill the 7s interval wouldn't impact their performance.
 Long story short, in every and each experiment, timing performance suffered.
 We then interpreted these results using the (radical) embodied cognition framework.
