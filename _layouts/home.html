@@ -27,16 +27,18 @@ bodyClass: page-home
     <div class="row justify-content-start">
       {% assign sorted = site.cv | sort: 'weight' | reverse %}
       {% for service in sorted %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
-            </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+      {% if forloop.index < 4 %}
+        <div class="col-12 col-md-4 mb-1">
+          <div class="service service-summary">
+            <div class="service-content">
+              <h2 class="service-title">
+                <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+              </h2>
+              <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            </div>
           </div>
         </div>
-      </div>
+      {%endif%}
       {% endfor %}
     </div>
     <div class="row justify-content-center">
