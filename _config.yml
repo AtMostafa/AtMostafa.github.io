@@ -29,7 +29,7 @@ collections:
     output: true
     permalink: /cv/:path
     sort_by: weight
-  team:
+  links:
     output: true
     permalink: /links/:path
 

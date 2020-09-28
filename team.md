@@ -1,6 +1,6 @@
 ---
 title: Links
-layout: teams
+layout: links
 permalink: /links
 intro_image: 
 intro_image_absolute: true
