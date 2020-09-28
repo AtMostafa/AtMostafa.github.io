@@ -1,7 +1,7 @@
 ---
-title: Team
+title: Links
 layout: teams
-permalink: /team
+permalink: /links
 intro_image: 
 intro_image_absolute: true
 intro_image_hide_on_mobile: false

@@ -6,7 +6,7 @@ main:
     url: "/cv"
     weight: 2
   - name: "Links"
-    url: "/team"
+    url: "/links"
     weight: 3
   - name: "About"
     url: "/about"
