@@ -6,7 +6,7 @@ layout: page
 image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "Accounting Partner"
 linkedinurl: "https://www.linkedin.com/example2"
-promoted: true
+promoted: false
 weight: 2
 ---
 
