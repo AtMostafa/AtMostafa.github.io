@@ -11,6 +11,15 @@
         </a>
       </div>
       {% endif %}
+
+      {% if site.data.contact.github %}
+      <div class="call-twiiter"><strong>GitHub: </strong>
+        <a href="https://github.com/{{ site.data.contact.github }}">
+          @{{ site.data.contact.github }}
+        </a>
+      </div>
+      {% endif %}
+
     </div>
   </div>
   {% if include.show_button %}
