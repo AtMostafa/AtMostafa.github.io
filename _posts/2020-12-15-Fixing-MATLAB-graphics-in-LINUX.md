@@ -2,7 +2,7 @@
 layout: post
 title: "Fix MATLAB graphic acceleration in Linux"
 author: Mostafa
-tags: Matlab Python
+tags: Matlab Python opengl graphic gpu
 ---
 
 [here](https://uk.mathworks.com/matlabcentral/answers/241374-libgl-error-persists-and-i-ve-tried-everything)
